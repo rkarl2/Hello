@@ -8,7 +8,9 @@ Purpose: print hello and major
 
  int main (void){
 
-   printf("Hello World\n");
+   printf("Ryan Karl\n");
    printf("Electrical engineer major\n");
+  printf("Amy Wolterman\n");
+  printf("Mechanical Engineering\n");
 
  }
