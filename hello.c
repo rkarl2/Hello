@@ -16,5 +16,9 @@ Purpose: Print name and major
 
    printf("Mechanical Engineering\n");
 
+   printf("Thomas Hervert\n");
+
+   printf("Electrical Engineering\n");
+
       return 0;
  }
