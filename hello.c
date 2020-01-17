@@ -1,7 +1,7 @@
 /*
 Author:Ryan Karl
 1/16/2020
-Collaborators: None
+Collaborators: Amy Wolterman
 Purpose: print hello and major
 */
  #include <stdio.h>
@@ -10,7 +10,7 @@ Purpose: print hello and major
 
    printf("Ryan Karl\n");
    printf("Electrical engineer major\n");
-  printf("Amy Wolterman\n");
-  printf("Mechanical Engineering\n");
+   printf("Amy Wolterman\n");
+   printf("Mechanical Engineering\n");
 
  }
