@@ -1,7 +1,7 @@
 /*
 Author:Ryan Karl
 1/16/2020
-Collaborators: Amy Wolterman
+Collaborators: Amy Wolterman, Thomas Hervert
 Purpose: Print name and major
 */
  #include <stdio.h>
